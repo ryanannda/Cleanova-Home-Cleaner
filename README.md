@@ -35,19 +35,6 @@ https://ryanannda.github.io/Cleanova-Home-Cleaner/
 
 ---
 
-## 📂 Project Structure
-
-Cleanova-Home-Cleaner/
-├── assets/
-│   ├── css/
-│   ├── js/
-│   ├── images/
-│   └── fonts/
-├── index.html
-├── README.md
-
----
-
 ## 🚀 Getting Started
 
 ### Clone Repository
